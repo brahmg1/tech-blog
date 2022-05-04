@@ -1,0 +1,83 @@
+header {
+    background-color: rgb(27, 15, 3);
+}
+
+header a {
+    color: rgb(151, 206, 161);
+    background-color: rgb(27, 15, 3);
+}
+
+header nav {
+    background-color: rgb(27, 15, 3);
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+header h1 {
+    background-color: rgb(27, 15, 3);
+}
+
+header h1 a {
+    background-color: rgb(151, 206, 161);
+    color: rgb(27, 15, 3);
+}
+
+.login-form {
+    border-style: solid;
+    border-color: rgb(27, 15, 3);
+}
+
+.login-form h2 {
+    width: 100%;
+    background-color: rgb(27, 15, 3);
+    color: rgb(151, 206, 161);
+}
+
+.login-form input {
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+.login-form label {
+    color: rgb(27, 15, 3);
+}
+
+.signup-form {
+    border-style: solid;
+    border-color: rgb(27, 15, 3);
+}
+
+.signup-form h2 {
+    width: 100%;
+    background-color: rgb(27, 15, 3);
+    color: rgb(151, 206, 161);
+}
+
+.signup-form input {
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+.signup-form label {
+    color: rgb(27, 15, 3);
+}
+
+#logout {
+    background-color: rgb(151, 206, 161);
+    color: rgb(27, 15, 3);
+}
+
+#post-title, #edit-post-title, #edit-post-text, #post-text {
+    width: 500px;
+}
+
+.comment-form textarea {
+    width: 400px;
+    height: 200px;
+}
+
+.comment:nth-child(odd) {
+    background-color: #dcffdb;
+  }
