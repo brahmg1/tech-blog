@@ -36,11 +36,6 @@ const postData = [
         "post_text": "This is some post text",
         "user_id": 4
     },
-    {
-        "title": "This is the eighth post created",
-        "post_text": "This is some post text",
-        "user_id": 1
-    },
 ];
 
 const seedPost = () => Post.bulkCreate(postData);
