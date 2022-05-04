@@ -1,0 +1,11 @@
+<section class="p-3">
+    <h2>Current Blog Posts</h2>
+
+    <ol class="post-list">
+        {{#each posts as |post|}}
+        <li class="border p-2 my-4">
+            {{> post-info post}}
+        </li>
+        {{/each}}
+    </ol>
+</section>
