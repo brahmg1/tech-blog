@@ -21,7 +21,7 @@ This repository contains code required to host a Tech Blog website where users c
 ---
 
 ## Deployed Heroku link
-Unable to login to Heroku due to site "Internal Server Error" on 5/4/22
+https://brahmg1-tech-blog.herokuapp.com/ 
 
 ---
 
